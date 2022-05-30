@@ -2,7 +2,7 @@
     <h1 align="center">Oi, Tudo bem? Meu nome é <a href="https://www.linkedin.com/in/emanuel-azevedo-7668b91b7/" target="_blank">Emanuel Azevedo 😛</a>
 </div>
 
-   <div> <p align="left">Aqui você vai ver um pouco sobre mim. Atualmente, estudo <b>Desenvolvimento Web</b> na  <a href="https://www.newtab.academy/"><img width="8%" align="center" valign="middle" src="https://www.newtab.academy/wp-content/uploads/2020/08/logo-colorido@2x.png" target="_blank"/></a> e por  meio do conhecimento que vou adquirindo, desenvolvo projetos com as linguagens, frameworks e ferramentas  das áreas de programação <i>Front-end e Back-end.</i></p> 
+   <div> <p align="left"><h4>Aqui você vai ver um pouco sobre mim. Atualmente, estudo <b>Desenvolvimento Web</b> na</h4>  <a href="https://www.newtab.academy/"><img width="8%" align="center" valign="middle" src="https://www.newtab.academy/wp-content/uploads/2020/08/logo-colorido@2x.png" target="_blank"/></a> <h4>e por  meio do conhecimento que vou adquirindo, desenvolvo projetos com as linguagens, frameworks e ferramentas  das áreas de programação <i>Front-end e Back-end.</i></h4></p> 
 </div>
   <div align="center"><img src="https://github.com/mitul3737/mitul3737/blob/main/mituls%20code.gif?raw=true" width="450px"><div>
 
