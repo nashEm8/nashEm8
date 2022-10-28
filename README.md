@@ -6,11 +6,11 @@
 </div>
   <div align="center"><img src="https://github.com/mitul3737/mitul3737/blob/main/mituls%20code.gif?raw=true" width="450px"><div>
 
-  <div style= "display:flex;">
+  <div align="left">
       <h2 align="left"> 📈 Estatísticas GitHub <br><p></p></h2>
     <a href="https://github.com/nashEm8">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nashEm8&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashEm8&theme=dracula&hide_border=false&&layout=compact"/>
+      <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nashEm8&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+      <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashEm8&theme=dracula&hide_border=false&&layout=compact"/>
     </a>
   </div><br/>
     
