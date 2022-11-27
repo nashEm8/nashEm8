@@ -11,8 +11,8 @@
   <div align="left">
       <h2 align="left"> 📈 Estatísticas GitHub <br><p></p></h2>
     <a href="https://github.com/nashEm8">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nashEm8&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashEm8&theme=radical&hide_border=false&&layout=compact"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nashEm8&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashEm8&theme=radical&hide_border=false&&layout=compact"/>
     </a>
   </div><br/>
     
