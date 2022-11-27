@@ -1,16 +1,18 @@
 <div>
-    <h1>Oi, Tudo bem? Meu nome é <a href="https://www.linkedin.com/in/emanuel-azevedo-7668b91b7/" target="_blank">Emanuel Azevedo</a>
+    <h1>Oi, Tudo bem? Meu nome é <a href="https://www.linkedin.com/in/emanuel-azevedo-7668b91b7/" target="_blank">Emanuel Azevedo</a></h1>
 </div>
 
-   <div> <p align="left"><h4>Sou apaixonado por tecnologia e estou em constante desenvolvimento. Aqui você vai poder ver meus projetos, espero que goste :')</h4></p> 
-</div>
-  <div align="center"><img src="https://github.com/mitul3737/mitul3737/blob/main/mituls%20code.gif?raw=true" width="450px"><div>
+- 💻  Sou desenvolvedor Front-End
+- 📚  Atualmente estou estudando JS 
+
+<div> <p>Sou apaixonado por tecnologia e estou em constante desenvolvimento. Aqui você vai poder ver meus projetos, espero que goste :')</p></div>
+<br/>
 
   <div align="left">
       <h2 align="left"> 📈 Estatísticas GitHub <br><p></p></h2>
     <a href="https://github.com/nashEm8">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nashEm8&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashEm8&theme=dracula&hide_border=false&&layout=compact"/>
+      <img height="195em" src="https://github-readme-stats.vercel.app/api?username=nashEm8&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+      <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashEm8&theme=radical&hide_border=false&&layout=compact"/>
     </a>
   </div><br/>
     
