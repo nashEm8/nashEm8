@@ -4,6 +4,7 @@
 
 - 💻  Sou desenvolvedor Front-End
 - 📚  Atualmente estou estudando JS 
+- ⚛️  emanuelazevedo.com.br
 
 <div> <p>Sou apaixonado por tecnologia e estou em constante desenvolvimento. Aqui você vai poder ver meus projetos, espero que goste :')</p></div>
 <br/>
