@@ -1,15 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Emanuel+Azevedo;I'm+22+years+old;I'm+a+Web+Developer+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Emanuel+Azevedo;I'm+22+years+old;I'm+a+Web+Developer+:%29)](https://git.io/typing-svg)
 
 
-<br/>
+<br><br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nashEm8&show_icons=true&count_private=true&hide_border=true&title_color=007acc&icon_color=007acc&text_color=007acc&bg_color=transparent" alt="Emanuel Azevedo github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashEm8&layout=compact&hide_border=true&title_color=007acc&text_color=007acc&bg_color=transparent" />
 </div>
 
-<br/><br/>
+<br><br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nashEm8&bg_color=ffffff&color=007acc&line=007acc&point=00bfe6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
     
@@ -27,7 +27,7 @@
     <img align="center" alt="icon-wordpress" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   </div>
   
-  <br/><br/><br/>
+  <br><br><br>
   
    <div>
     <h2>📚  Studying in this moment: </h2>
@@ -38,7 +38,7 @@
     <img align="center" alt="icon-angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   </div>
 
-<br/><br/><br/>
+<br><br><br>
 
   <div>
     <h2> 📸 Social networks</h2>
