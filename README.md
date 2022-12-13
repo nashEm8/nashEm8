@@ -10,9 +10,13 @@
 </div>
 
 <br><br>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nashEm8&theme=dark&hide_border=true&locale=pt-br&date_format=n%2Fj%5B%2FY%5D"/>
+</div>
+  
+<br><br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nashEm8&bg_color=ffffff&color=007acc&line=007acc&point=00bfe6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-    
    <div>
     <h2> ⚛ Main skills:</h2>
    </div>
