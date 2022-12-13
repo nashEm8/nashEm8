@@ -9,7 +9,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashEm8&layout=compact&hide_border=true&title_color=007acc&text_color=007acc&bg_color=0D1117" />
 </div>
 
-<br><br>
+<br>
+
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nashEm8&theme=dark&hide_border=true&locale=pt-br&date_format=n%2Fj%5B%2FY%5D"/>
 </div>
