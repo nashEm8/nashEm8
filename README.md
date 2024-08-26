@@ -16,7 +16,6 @@
 </div>
   
 <br><br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nashEm8&bg_color=ffffff&color=007acc&line=007acc&point=00bfe6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
    <div>
     <h2> ⚛ Main skills:</h2>
@@ -39,8 +38,9 @@
    </div>
           
   <div style="display: inline-block">
-    <img align="center" alt="icon-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="icon-java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img align="center" alt="icon-angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img align="center" alt="icon-csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   </div>
 
 <br><br><br>
